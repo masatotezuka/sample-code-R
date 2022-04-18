@@ -2,6 +2,7 @@ library(data.table)
 library(tidyverse)
 
 
+data(trees)
 
 # 複数のファイルを一括で読み込む処理
 x<-c("01","02","03")
